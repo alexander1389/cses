@@ -69,3 +69,5 @@ out/
 
 .DS_Store
 Thumbs.db
+
+!**/tests/*.out
