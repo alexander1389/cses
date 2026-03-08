@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 void move(int n, int src, int dst, int aux) {
     if (n == 0) {
